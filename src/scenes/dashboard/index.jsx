@@ -147,7 +147,7 @@ const Dashboard = () => {
               </Typography>
               <Typography
                 variant="h3"
-                fontWeight="bold"
+                fontWeight="bold"co
                 color={colors.greenAccent[500]}
               >
                 $59,342.32

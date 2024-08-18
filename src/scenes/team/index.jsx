@@ -61,7 +61,7 @@ const Team = () => {
                         color: colors.greenAccent[300],
                     },
                     "& .MuiDataGrid-columnHeaders":{
-                        backgroundColor: `${colors.blueAccent[700]} !important`,
+                        backgroundColor: `${colors.blueAccent[700]}`,
                         borderBottom: "none"
                     },
                     "& .MuiDataGrid-virtualScroller":{
